@@ -20,14 +20,15 @@ pip install -r requirements.txt
 ![波动率分布](images/波动率分布.svg)
 
 ### Connectedness Networks
-<!-- ![波动率分布](images/俄乌冲突：2021-12-30.svg)![波动率分布2](images/俄乌冲突：2022-04-29.svg)![波动率分布3](images/俄乌冲突：2022-12-30.svg) -->
 
-<img src='images/俄乌冲突：2021-12-30.svg' width=200><img src='images/俄乌冲突：2022-04-29.svg' width=200><img src='images/俄乌冲突：2022-12-30.svg' width=200>
+<img src='images/俄乌冲突：2021-12-30.svg' width=250><img src='images/俄乌冲突：2022-04-29.svg' width=250><img src='images/俄乌冲突：2022-12-30.svg' width=250>
 ## Spillover Measurement
 ![波动净溢出](images/波动净溢出.svg)![波动气候政策](images/波动气候政策.svg)
+
 ## Licenses
-Database: CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/. 
-Code: MIT (https://choosealicense.com/licenses/mit/); year: 2025; copyright holders: Xianghan Cao, Miao Tian, Shuhuai Li
+- Database: CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/. 
+- Code: MIT (https://choosealicense.com/licenses/mit/); year: 2025;
+- Copyright holders: Xianghan Cao, Miao Tian, Shuhuai Li
 
 ## Contact
 For any questions or inquiries, please contact: caoxianghan@gmail.com
