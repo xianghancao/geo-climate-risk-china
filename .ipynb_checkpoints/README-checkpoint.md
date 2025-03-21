@@ -1,7 +1,7 @@
 # **Geopolitical and Climate Risks in China's Energy Sector**  
 
 This repository contains the code and datasets for the article:  
-**"Spillover Effects of Volatility in Geopolitical Risks, Climate Policy Risks, Traditional Energy Markets, and Green Markets: Evidence from China."**  
+**"Spillover Effects of Volatility in Geopolitical Risks, Climate Policy Risks, Traditional Energy Markets, and Green Markets: Evidence from China."**, authors: Xianghan Cao, Miao Tian, Shuhuai Li
 
 The article is currently under review for publication.
 
